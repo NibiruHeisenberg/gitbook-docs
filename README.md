@@ -1,6 +1,6 @@
 ---
 cover: .gitbook/assets/TheWorld (1).jpg
-coverY: 0
+coverY: -108.41010401188709
 ---
 
 # Welcome!
