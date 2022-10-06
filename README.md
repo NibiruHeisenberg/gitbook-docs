@@ -1,7 +1,6 @@
 ---
 cover: .gitbook/assets/TheWorld (1).jpg
 coverY: 0
-layout: landing
 ---
 
 # Welcome!
