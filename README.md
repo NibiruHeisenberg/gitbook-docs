@@ -1,4 +1,5 @@
 ---
+cover: .gitbook/assets/TheWorld (1).jpg
 coverY: 0
 ---
 
